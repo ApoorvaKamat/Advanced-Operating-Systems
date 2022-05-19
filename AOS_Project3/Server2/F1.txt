@@ -1,6 +1,0 @@
-Client ID :  1 , Timestamp :  2022-05-04 23:14:26.08 
-Client ID :  2 , Timestamp :  2022-05-04 23:14:28.648 
-Client ID :  0 , Timestamp :  2022-05-04 23:14:31.432 
-Client ID :  4 , Timestamp :  2022-05-04 23:14:37.362 
-Client ID :  3 , Timestamp :  2022-05-04 23:14:40.916 
-Client ID :  3 , Timestamp :  2022-05-04 23:16:28.481 
